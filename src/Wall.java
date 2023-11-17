@@ -11,7 +11,7 @@ public class Wall implements Structure {
     }
 
     /**
-     * Returns any element wit a given color.
+     * Returns any element with a given color.
      * @param color     the given color
      * @return          the element
      */
@@ -93,10 +93,10 @@ public class Wall implements Structure {
     }
 
 
-        /**
-         * Returns the number of all elements that make up the structure.
-         * @return      the number of elements
-         */
+    /**
+     * Returns the number of all elements that make up the structure.
+     * @return      the number of elements
+     */
     @Override
     public int count() {
 
